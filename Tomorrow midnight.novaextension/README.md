@@ -2,8 +2,7 @@
 
 Based on the [Tomorrow Night 1.0 by Justin Hileman](https://panic.com/coda/plugins.php?id=39) for Coda 2 Editor
 
-![alt text](https://github.com/gejobj/TomorrowMidnight/color_example.png)
-![alt text](https://github.com/gejobj/TomorrowMidnight/color_example_2.png)
+![alt text](https://github.com/gejobj/TomorrowMidnight/raw/master/color_example_2.png)
 
 ## Instructions
 
