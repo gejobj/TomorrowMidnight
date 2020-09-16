@@ -167,6 +167,7 @@ identifier.variable {
 identifier.property,
 identifier.decorator,
 identifier.function,
+identifier.core.function,
 identifier.method {
   color: #81a2be;
 }
@@ -182,7 +183,7 @@ string {
   color: #b5bd68;
 }
 string.key {
-  color: #CD7774;
+  color: #81a2be;
 }
 string-template {
   color: #CD7774;
