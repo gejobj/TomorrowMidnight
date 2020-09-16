@@ -261,19 +261,19 @@ tag.attribute.value.link {
   color: #CD7774;
 }
 
-/* Styles */
+/* CSS Styles */
 style.at {
   color: #e8bf6a;
   font-weight: bold;
 }
 style.selector.element {
-  color: #cdde87;
+  color: #C5C8C6;
 }
 style.selector.identifier.id {
   color: #cdde87;
 }
 style.selector.identifier.class {
-  color: #cdde87;
+  color: #ffffff;
 }
 style.selector.pseudoclass {
   color: #cdde87;
@@ -282,16 +282,16 @@ style.selector.pseudoelement {
   color: #cdde87;
 }
 style.attribute.name {
-  color: #e8bf6a;
+  color: #81a2be;
 }
 style.value.number {
-  color: #CD7774;
+  color: #cdde87;
 }
 style.value.color.hex {
-  color: #CD7774;
+  color: #e8bf6a;
 }
 style.value.keyword {
-  color: #CD7774;
+  color: #e8bf6a;
 }
 style.value.color.named {
   color: #CD7774;
