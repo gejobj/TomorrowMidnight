@@ -241,7 +241,7 @@ definition.struct struct.name {
 definition.property property.name,
 definition.function function.name,
 definition.method method.name {
-  color: #ee0f04;
+  color: #0490EE;
 }
 
 /* Tags */
