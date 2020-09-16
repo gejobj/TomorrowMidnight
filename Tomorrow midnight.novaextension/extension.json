@@ -1,9 +1,11 @@
 {
     "identifier": "gerardobueno.TomorrowMidnight",
     "name": "Tomorrow Midnight",
-    "organization": "",
     "description": "This is a Nova version of Tomorrow Night color theme created by Justin Hileman for Coda 2",
     "version": "1.0",
+    "bugs": "https://github.com/gejobj/TomorrowMidnight/issues",
+    "repository": "https://github.com/gejobj/TomorrowMidnight",
     "license": "MIT",
+    "keywords": ["dark", "php", "css", "javascript"],
     "categories": ["themes"]
 }
